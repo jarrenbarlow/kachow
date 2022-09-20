@@ -1,0 +1,52 @@
+#grizzly{
+    background-image: url('GRIZZLY_GOD.jpg');
+    width: 300px;
+    height: 400px;
+    box-sizing: border-box;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    float: left;
+    margin-right: 250px;
+}
+
+#panda{
+    background-image: url('Babypanda.jpg');
+    width: 250px;
+    height: 400px;
+    box-sizing: border-box;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    float: left;
+    margin-right: 200px;
+    
+}
+
+#polar{
+    background-image: url('Ice_bear.jpg');
+    width: 400px;
+    height: 420px;
+    box-sizing: border-box;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    float: left;
+    
+}
+
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    text-align: center;
+    font-size: 40px;
+    margin: auto;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    text-align: center;
+    margin: auto;
+    font-size: 15px;
+}
+
+body{
+    background-color:lightblue  ;
+}
