@@ -50,3 +50,15 @@ h2{
 body{
     background-color:lightblue  ;
 }
+
+nav{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    text-align: center;
+    margin: auto;
+    font-size: 15px; 
+    height: 20px;
+    padding: 5px;
+    position: sticky;
+    position: -webkit- sticky;
+    top: 0;
+}
