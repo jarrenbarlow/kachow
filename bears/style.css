@@ -62,3 +62,7 @@ nav{
     position: -webkit- sticky;
     top: 0;
 }
+
+a:visited{
+    color: black;
+}
