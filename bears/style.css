@@ -66,3 +66,53 @@ nav{
 a:visited{
     color: black;
 }
+
+#numberText {
+    opacity: 0;
+    color: black;
+}
+
+#grizzly:hover #numberText{
+
+    background: linen;
+    text-align: center;
+    margin-top: 150px;
+    opacity: 100%;
+    width: 300px;
+    height: 75px;
+    border: solid black;
+}
+
+#definitionText {
+    opacity: 0;
+    color: black;
+}
+
+#panda:hover #definitionText{
+
+    background: linen;
+    text-align: center;
+    margin-top: 150px;
+    opacity: 100%;
+    width: 300px;
+    height: 75px;
+    border: solid black;
+}
+
+#colorText {
+    opacity: 0;
+    color: black;
+}
+
+#polar:hover #colorText{
+
+    background: linen;
+    text-align: center;
+    margin-top: 150px;
+    opacity: 100%;
+    width: 300px;
+    height: 75px;
+    border: solid black;
+}
+
+
