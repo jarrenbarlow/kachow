@@ -1,0 +1,40 @@
+body{
+    background-color: cornsilk;
+}
+#main{
+
+    margin: 100px auto;
+    text-align: center;
+    width: 1000px;
+    height: 600px;
+}
+#img{
+
+    width: 80%;
+    height: 80%;
+}
+input{
+    height: 40px;
+    font-size: 22px;
+}
+#score{
+    position: absolute;
+    top: 50px;
+    right: 200px;
+    font-family: Constantia;
+    font-size: 25px;
+}
+.msg{
+    display: none;
+    top: 20px;
+    left: 50%;
+    margin-left: -125px;
+    position: absolute;
+    font-size: 25px;
+    text-align: center;
+    width: 250px;
+    height: 40px;
+    border:1px solid red;
+    border-radius: 5px;
+    background-color: lightpink;
+}
