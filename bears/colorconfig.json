@@ -3,6 +3,43 @@
     {
       "name": "red.jpg",
       "answer": "red"
+    },
+    {
+      "name": "blue.jpg",
+      "answer": "blue"
+    },
+    {
+      "name": "green.jpg",
+      "answer": "green"
+    },
+    {
+      "name": "yellow.jpg",
+      "answer": "yellow"
+    },
+    {
+      "name": "orange.jpg",
+      "answer": "orange"
+    },
+    {
+      "name": "pink.jpg",
+      "answer": "pink"
+    },
+    {
+      "name": "purple.jpg",
+      "answer": "purple"
+    },
+    {
+      "name": "brown.jpg",
+      "answer": "brown"
+    },
+    {
+      "name": "grey.jpg",
+      "answer": "grey"
+    },
+    {
+      "name": "white.jpg",
+      "answer": "white"
     }
+
   ]
 }
