@@ -55,6 +55,10 @@ body{
     text-decoration: none;
     letter-spacing: 5px;
  }
+
+ .btn:hover{
+   color: black;
+ }
  
  .create{
     text-decoration: none;
@@ -63,4 +67,8 @@ body{
     font-weight: bold;
     font-size: 20px;
     color: #fff;
+ }
+
+ .create:hover{
+   color: black;
  }
