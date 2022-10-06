@@ -1,9 +1,11 @@
 
 body{
     background-image: url('bearslogin.jpg');
-    background-size: cover;
-    background-position: center center;
+    background-size:auto;
+    background-position: center;
     font-family: poppins;
+    background-repeat: no-repeat;
+    background-color: #43d9e7;
 }
 
 .box{
